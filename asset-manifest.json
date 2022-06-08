@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d113eedf.css",
-    "main.js": "/react-gh-pages/static/js/main.ce2152ee.js",
-    "static/js/787.c40c1d73.chunk.js": "/react-gh-pages/static/js/787.c40c1d73.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.d113eedf.css.map": "/react-gh-pages/static/css/main.d113eedf.css.map",
-    "main.ce2152ee.js.map": "/react-gh-pages/static/js/main.ce2152ee.js.map",
-    "787.c40c1d73.chunk.js.map": "/react-gh-pages/static/js/787.c40c1d73.chunk.js.map"
+    "main.css": "/mealFinder.io/static/css/main.d113eedf.css",
+    "main.js": "/mealFinder.io/static/js/main.49bb8ea1.js",
+    "static/js/787.c40c1d73.chunk.js": "/mealFinder.io/static/js/787.c40c1d73.chunk.js",
+    "static/media/logo.svg": "/mealFinder.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mealFinder.io/index.html",
+    "main.d113eedf.css.map": "/mealFinder.io/static/css/main.d113eedf.css.map",
+    "main.49bb8ea1.js.map": "/mealFinder.io/static/js/main.49bb8ea1.js.map",
+    "787.c40c1d73.chunk.js.map": "/mealFinder.io/static/js/787.c40c1d73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d113eedf.css",
-    "static/js/main.ce2152ee.js"
+    "static/js/main.49bb8ea1.js"
   ]
 }
